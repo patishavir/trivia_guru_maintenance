@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "826815472799",
+    "project_id": "trivia-59069",
+    "storage_bucket": "trivia-59069.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826815472799:android:ca8a6ed5f7ea754e112eaa",
+        "android_client_info": {
+          "package_name": "com.focus.trivia_guru_maintenance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826815472799-qmle5pkdd92k05dqnmq4fheev3dnh4i7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-JJVj5a6mIUiYosoucnjRXRtYOA21cGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826815472799-qmle5pkdd92k05dqnmq4fheev3dnh4i7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

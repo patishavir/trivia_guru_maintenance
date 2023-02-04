@@ -117,8 +117,8 @@ class _HomePageState extends State<HomePage> {
     await _productss.doc(productId).delete();
 
     // Show a snackbar
-    ScaffoldMessenger.of(context).showSnackBar(const SnackBar(
-        content: Text('You have successfully deleted a product')));
+    ScaffoldMessenger.of(context).showSnackBar(SnackBar(
+        content: Text('You have successfully deleted a product $productId.)}')));
   }
 
   @override
